@@ -1,0 +1,115 @@
+/* add custom styles */
+.p{
+      background-color:white;
+      width: 1%;
+      height: 1%;
+      float: left;
+      padding-bottom: 1%;
+      margin: 0;
+      padding-top:0;
+      border-style: solid;
+      border-width:1px;";
+}
+.x{
+      background-color:white;
+      width: 1%;
+      height: 1%;
+      float: left;
+      padding-bottom: 1%;
+      margin: 0;
+      padding-top:0;  border-style: solid;
+      border-width:1px;";
+}
+._{
+      background-color:black;
+      width: 1%;
+      height: 1%;
+      float: left;
+      padding-bottom: 1%;
+      margin: 0;
+      padding-top:0;
+      border-style: solid;
+      border-width:1px;
+}
+.s{
+      background-color:green;
+      width: 1%;
+      height: 1%;
+      float: left;
+      padding-bottom: 1%;
+      margin: 0;
+      padding-top:0;
+      border-style: solid;
+      border-width:1px;
+}
+.1{
+       background-color:red;
+       width: 1%;
+       height: 1%;
+       float: left;
+       padding-bottom: 1%;
+       margin: 0;
+       padding-top:0;
+       border-style: solid;
+       border-width:1px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  width: 1400px;
+
+}
+header {
+  background-color: #8990A2;
+  width: 100%;
+  margin-top: 0%;
+}
+
+#maze-container{
+  white-space: nowrap;
+  overflow: scroll;
+  width: 1400px;
+  height: 802px;
+  margin: .3%;
+}
+.row{
+  background-color: red;
+  width:100%;
+  height:10%;
+}
+.maze-square{
+  width: "+size+";
+  height: "+size+";
+  float: left;
+  padding-bottom: 1%;
+  margin: 0;
+  padding-top:0;
+  border-style: solid; border-width:1px;"
+}
+.maze-squre.hover{
+  border-color:#82ffcb
+}
+button{
+color: white;
+background-color: #5a6684;
+font-size: 100%;
+text-decoration: none;
+padding: 10px 30px;
+border-radius: 5px;
+font-family: 'Avenir', sans-serif;
+}
+
+select{
+  margin-top: 15px;
+  margin-bottom: 15px;
+color: white;
+background-color: #5a6684;
+font-size: 100%;
+text-decoration: none;
+padding: 10px 30px;
+border-radius: 5px;
+font-family: 'Avenir', sans-serif;
+}
