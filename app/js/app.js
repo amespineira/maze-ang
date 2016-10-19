@@ -1,1 +1,1 @@
-var app = angular.module('mazeApp', []);
+var app = angular.module('mazeApp', ['services']);
